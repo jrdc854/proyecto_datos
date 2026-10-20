@@ -1,0 +1,90 @@
+[
+ {
+  "Id": 20239,
+  "Nombre": "Total de viajeros por tipo, medio de transporte (terrestre, aéreo y maritimo) y distancia",
+  "Codigo": "Muestreo2010_NAC",
+  "FK_Periodicidad": 1,
+  "FK_Publicacion": 355,
+  "FK_Periodo_ini": 1,
+  "Anyo_Periodo_ini": "1996",
+  "FechaRef_fin": "null",
+  "Ultima_Modificacion": 1791529200000
+ },
+ {
+  "Id": 49359,
+  "Nombre": "Total de viajeros por tipo, medio de transporte (terrestre, aéreo y maritimo) y distancia",
+  "Codigo": "Muestreo2010_NAC",
+  "FK_Periodicidad": 1,
+  "FK_Publicacion": 355,
+  "FK_Periodo_ini": 1,
+  "Anyo_Periodo_ini": "1996",
+  "FechaRef_fin": "null",
+  "Ultima_Modificacion": 1791529200000
+ },
+ {
+  "Id": 20240,
+  "Nombre": "Transporte urbano por autobús por CCAA",
+  "Codigo": "Muestreo2010_NAC-CCAA",
+  "FK_Periodicidad": 1,
+  "FK_Publicacion": 355,
+  "FK_Periodo_ini": 1,
+  "Anyo_Periodo_ini": "2012",
+  "FechaRef_fin": "null",
+  "Ultima_Modificacion": 1791529200000
+ },
+ {
+  "Id": 49360,
+  "Nombre": "Transporte urbano por autobús por comunidades y ciudades autónomas",
+  "Codigo": "Muestreo2010_NAC-CCAA",
+  "FK_Periodicidad": 1,
+  "FK_Publicacion": 355,
+  "FK_Periodo_ini": 1,
+  "Anyo_Periodo_ini": "2012",
+  "FechaRef_fin": "null",
+  "Ultima_Modificacion": 1791529200000
+ },
+ {
+  "Id": 20193,
+  "Nombre": "Transporte urbano: metro y autobus en ciudades que dispongan de metro",
+  "Codigo": "Muestreo2010_MUN",
+  "FK_Periodicidad": 1,
+  "FK_Publicacion": 355,
+  "FK_Periodo_ini": 1,
+  "Anyo_Periodo_ini": "2012",
+  "FechaRef_fin": "null",
+  "Ultima_Modificacion": 1791529200000
+ },
+ {
+  "Id": 49361,
+  "Nombre": "Transporte urbano: metro y autobus en ciudades que dispongan de metro",
+  "Codigo": "Muestreo2010_MUN",
+  "FK_Periodicidad": 1,
+  "FK_Publicacion": 355,
+  "FK_Periodo_ini": 1,
+  "Anyo_Periodo_ini": "2012",
+  "FechaRef_fin": "null",
+  "Ultima_Modificacion": 1791529200000
+ },
+ {
+  "Id": 26363,
+  "Nombre": "Coeficientes de variación transporte urbano",
+  "Codigo": "Muestreo2010_NAC_CV",
+  "FK_Periodicidad": 1,
+  "FK_Publicacion": 355,
+  "FK_Periodo_ini": 1,
+  "Anyo_Periodo_ini": "2017",
+  "FechaRef_fin": "null",
+  "Ultima_Modificacion": 1791529200000
+ },
+ {
+  "Id": 75727,
+  "Nombre": "Coeficientes de variación transporte urbano",
+  "Codigo": "Muestreo2010_NAC_CV",
+  "FK_Periodicidad": 1,
+  "FK_Publicacion": 355,
+  "FK_Periodo_ini": 1,
+  "Anyo_Periodo_ini": "2017",
+  "FechaRef_fin": "null",
+  "Ultima_Modificacion": 1791529200000
+ }
+]
