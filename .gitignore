@@ -1,0 +1,16 @@
+# Datos descargados: se regeneran con scripts/descargar_datos.py
+datos/raw/*
+!datos/raw/.gitkeep
+*.csv.gz
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Sistema / editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
