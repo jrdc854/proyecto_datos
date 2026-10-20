@@ -36,7 +36,7 @@ Detalle de cada fuente, enlaces y avisos: [`datos/README.md`](datos/README.md).
 ```
 ├── scripts/            Descarga automática de los datos
 ├── datos/
-│   ├── raw/            Datos originales (no se suben: se regeneran con el script)
+│   ├── raw/            Datos originales (también se pueden regenerar con el script)
 │   └── procesados/     Datos limpios tras el ETL
 ├── almacen/            Apartado 3: diseño y scripts SQL del almacén de datos
 ├── etl/                Apartado 4: transformaciones de Pentaho Data Integration
