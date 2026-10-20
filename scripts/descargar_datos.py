@@ -36,7 +36,10 @@ import requests
 RAIZ = Path(__file__).resolve().parent.parent  # raíz del repositorio
 RAW = RAIZ / "datos" / "raw"
 MANIFIESTO = RAW / "MANIFIESTO.csv"
-UA = {"User-Agent": "Mozilla/5.0 (practica-universitaria-UA; datos abiertos)"}
+UA = {
+    "User-Agent": "Mozilla/5.0 (practica-universitaria-UA; datos abiertos)",
+    "Accept-Encoding": "gzip, deflate",  # sin brotli: evita errores de decodificación
+}
 TAM_MAX_MB = 300
 HOY = dt.date.today().isoformat()
 
